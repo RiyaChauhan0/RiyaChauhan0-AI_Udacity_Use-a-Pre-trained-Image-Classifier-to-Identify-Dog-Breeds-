@@ -1,1 +1,1 @@
-# RiyaChauhan0-AI_Udacity_Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds-
+AI_Udacity_Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds-
